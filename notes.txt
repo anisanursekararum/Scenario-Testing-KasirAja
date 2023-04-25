@@ -1,0 +1,32 @@
+email : admin.tokokita@yopmail.com
+pass : tokokita
+
+1 test scenario terdiri dari 2 test case
+
+
+test scenario register
+    test case success register
+    test case failed register empty form
+    test case failed register empty name
+    test case failed register empty email
+    test case failed register empty password
+    test case failed register invalid format email
+    test case failed register email already registered
+
+test scenario login
+    test case success login
+    test case failed login empty form
+    test case failed login email not registered
+    test case failed login invalid password
+
+test scenario 
+    test case success tambah penjualan
+    test case success search invoice
+    test case success search pelanggan
+    test case success date range
+    test case success delete product
+    test case success add product
+    test case search product with kode
+    test case search product with nama
+    test case failed empty product
+    test case failed uang bayar kurang
