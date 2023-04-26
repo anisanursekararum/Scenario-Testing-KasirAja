@@ -5,8 +5,8 @@ website : https://kasiraja.ajikamaludin.id/login
 Consists of 3 Test Scenarios and 25 Test Cases
 
 **Test Scenario #1 Register**
-    * The user is successfully registered <br />
-    * The user is failed registered because empty form <br />
+    - [x] The user is successfully registere__
+    * The user is failed registered because empty form__
     * The user is failed registered because empty nama toko
     * The user is failed registered because empty email
     * The user is failed registered because empty password
