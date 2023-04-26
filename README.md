@@ -4,16 +4,16 @@ website : https://kasiraja.ajikamaludin.id/login
 
 Consists of 3 Test Scenarios and 25 Test Cases
 
-**Test Scenario #1 Register**
-    - [x] The user is successfully registere__
-    * The user is failed registered because empty form__
-    * The user is failed registered because empty nama toko
+**_Test Scenario #1 Register_**
+    - [x] The user is successfully registere.
+    + The user is failed registered because empty form.
+    * The user is failed registered because empty nama toko.
     * The user is failed registered because empty email
     * The user is failed registered because empty password
     * The user is failed registered because invalid format email
     * The user is failed registered because email already registered
 
-**Test Scenario #1 Login**
+**_Test Scenario #1 Login_**
     * The user is successfully login
     * The user is failed login because empty form
     * The user is failed login because email is empty
@@ -21,7 +21,7 @@ Consists of 3 Test Scenarios and 25 Test Cases
     * The user is failed login because email not registered
     * The user is failed login because invalid password
 
-**Test Scenario #1 Sales**
+**_Test Scenario #1 Sales_**
     * The user is successfully add sales
     * The user is successfully search product with code
     * The user is successfully search product with name
